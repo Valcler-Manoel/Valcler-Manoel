@@ -1,9 +1,9 @@
 ### Olá, me chamo Válcler Manoel, procuro sempre em evoluir e aprimorar.
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🔭 Atualmente está trabalhando em um [Projeto Web](https://github.com/sapucaisocket/Projeto-Web-PP-III)
 - 📫 Contato: valcler.manoel@gmail.com
-- 🌱 Atualmente é estudante do Instituto Federal do Ceará.
+- 🌱 Técnico em Informática do IFCE.
 
 <p align="left">
 Experiências:
