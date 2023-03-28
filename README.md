@@ -1,16 +1,16 @@
 ### Olá, me chamo Válcler Manoel, procuro sempre em evoluir e aprimorar.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - 🔭 Atualmente está trabalhando em um [Projeto Web](https://github.com/sapucaisocket/Projeto-Web-PP-III)
 - 📫 Contato: valcler.manoel@gmail.com
 - 🌱 Atualmente é estudante do Instituto Federal do Ceará.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="left">
+Experiências:
+  
+* Uma base em ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
+* Serviços Backend com ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js)
+</p>
 
 <div> 
   <a href="https://www.linkedin.com/in/valcler-manoel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
