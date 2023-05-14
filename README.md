@@ -1,4 +1,4 @@
-### Olá, me chamo Válcler Manoel, procuro sempre em evoluir e aprimorar.
+<h1 align="center">Olá! Me chamo Válcler Manoel</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🔭 Atualmente está trabalhando em um [Projeto Web](https://github.com/sapucaisocket/Projeto-Web-PP-III)
@@ -17,5 +17,11 @@ Experiências:
   <a href="https://www.instagram.com/valcler.manoel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://replit.com/@ValclerManoel/" target="_blank"><img src="https://img.shields.io/badge/-Replit-%23FFA550?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
   <a href = "mailto:valcler.manoel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
+
+<hr>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Valcler-Manoel&show_icons=true&locale=en" alt="Valcler-Manoel" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valcler-Manoel&show_icons=true&border_radius=20&locale=en&layout=compact" alt="Valcler-Manoel" /></p>
+
+
+
