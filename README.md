@@ -8,8 +8,8 @@
 <p align="left">
 Experiências:
   
-* Uma base em ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
-* Serviços Backend com ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-2E333D?style=flat&logo=react)
+* Uma base em ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python) 
+* Serviços Backend com ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-2E333D?style=flat&logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-2E333D?style=flat&logo=Firebase)
 </p>
 
 <div> 
