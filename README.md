@@ -1,10 +1,9 @@
 <h1 align="center">Olá! Me chamo Válcler Manoel</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 Atualmente está trabalhando em um **[Projeto Web (Ciné)](https://github.com/Sapucai-Socket/New-Website-Movie)**
-- 📫 Contato: valcler.manoel@gmail.com
 - 💻 Graduando em Engenharia da Computação - UFC
 - 🌱 Técnico em Informática do IFCE.
+- 📫 Contato: valcler.manoel@gmail.com
 
 <p align="left">
 Experiências:
