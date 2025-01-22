@@ -9,7 +9,7 @@
 <p align="left">
 Experiências:
   
-* Uma base em ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python) 
+* Principais Linguangens: ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-2E333D?style=flat&logo=C) ![Javascript](https://img.shields.io/badge/-Javascript-2E333D?style=flat&logo=Javascript) 
 * Serviços Backend com ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-2E333D?style=flat&logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-2E333D?style=flat&logo=Firebase)
 </p>
 
