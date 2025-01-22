@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente está trabalhando em um **[Projeto Web (Ciné)](https://github.com/Sapucai-Socket/New-Website-Movie)**
 - 📫 Contato: valcler.manoel@gmail.com
+- 💻 Graduando em Engenharia da Computação - UFC
 - 🌱 Técnico em Informática do IFCE.
 
 <p align="left">
