@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Me chamo Válcler Manoel</h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/user-attachments/assets/7d14f220-8325-4395-be7f-697f7d436810" width="500px" alt="computer-vector" min-width="500px" max-width="500px" width="500px" align="right">
 
 - 💻 Graduando em Engenharia da Computação - UFC
 - 🌱 Técnico em Informática do IFCE.
@@ -18,10 +18,12 @@ Experiências:
   <a href="https://replit.com/@ValclerManoel/" target="_blank"><img src="https://img.shields.io/badge/-Replit-%23FFA550?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
   <a href = "mailto:valcler.manoel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+<br>
 <hr>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Valcler-Manoel&theme=transparent&show_icons=true&locale=en" alt="Valcler-Manoel" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valcler-Manoel&layout=compact&theme=transparent&border_radius=20&cache_seconds=1" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Valcler-Manoel&theme=transparent&show_icons=true&locale=en" alt="Valcler-Manoel" width="58%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valcler-Manoel&layout=compact&theme=transparent&border_radius=20&cache_seconds=1" width="38%">
+</p>
 
 
 
