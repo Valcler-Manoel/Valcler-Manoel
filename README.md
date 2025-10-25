@@ -1,5 +1,7 @@
 <h1 align="center">Olá! Me chamo Válcler Manoel</h1>
-<img src="https://github.com/user-attachments/assets/7d14f220-8325-4395-be7f-697f7d436810" width="500px" alt="computer-vector" min-width="500px" max-width="500px" width="500px" align="right">
+<img alt="dev-valcler-iron-man" src="https://github.com/user-attachments/assets/1fff9119-f5d0-487b-97d0-749f590f09b6" min-width="350px" max-width="350px" width="350px" align="right">
+<br>
+<br>
 
 - 💻 Graduando em Engenharia da Computação - UFC
 - 🌱 Técnico em Informática do IFCE.
@@ -18,6 +20,8 @@ Experiências:
   <a href="https://replit.com/@ValclerManoel/" target="_blank"><img src="https://img.shields.io/badge/-Replit-%23FFA550?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
   <a href = "mailto:valcler.manoel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<br>
+<br>
 <br>
 <hr>
 <p align="center">
