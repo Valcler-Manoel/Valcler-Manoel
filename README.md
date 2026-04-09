@@ -26,9 +26,8 @@ Experiências:
 <br>
 <hr>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Valcler-Manoel&theme=radical&rank_icon=github&show_icons=true&locale=en" alt="Valcler-Manoel" width="50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valcler-Manoel&layout=compact&theme=radical&cache_seconds=1" width="38%">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Valcler-Manoel&theme=radical&rank_icon=github&show_icons=true&locale=en" alt="Valcler-Manoel" width="50%">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Valcler-Manoel&layout=compact&theme=radical" width="38%">
 </p>
-
 
 
